@@ -1,7 +1,7 @@
 # psp-arc-sdk
 Tools for building/extracting PSP (PlayStation Portable) arc sdk updates
 
-These tools will allow you to extract as well as create the `.arc` format updates found within the early PSP sdks. These arcs are a simple format encrypted with DES-CBC. This tool has been tested with 0.6.5, 1.0.2, 1.0.3, and 1.5.0 arc files.
+These tools will allow you to extract as well as create the `.arc` format updates found within the early PSP sdks. These arcs are a simple format encrypted with DES-CBC. This tool has been tested with 0.6.5, 1.0.2, 1.0.3, and 1.5.0 sdk version arc files.
 
 I got lazy and made separate tools for each, but they should eventually be merged into one tool.
 
