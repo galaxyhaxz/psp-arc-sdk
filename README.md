@@ -5,7 +5,7 @@ These tools will allow you to extract as well as create the `.arc` format update
 
 I got lazy and made separate tools for each, but they should eventually be merged into one tool.
 
-[build](build) builds a `.arc` update from the specified list file. The list file contains the files to be included in the archive.
+[build](build) builds a `.arc` update from the specified list file. The list file contains the files to be included in the archive. Recommended to extract an existing `.arc` if you need one to work with.
 
 [extract](extract) extracts a `.arc` update into a folder and writes a list file. Can be rebuilt into an identical update.
 
